@@ -4,6 +4,10 @@ dist
 dist-ssr
 *.local
 
+# Keep local-only (do not push)
+docs/
+app/STRATEGIC_ROADMAP.md
+
 # Logs
 logs
 *.log
